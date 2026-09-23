@@ -1,16 +1,28 @@
-## Hi there 👋
-
-<!--
-**HahaAhhDev/hahaahhdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# hahaahhdev
+*Cyber Security engineer*
+## Tech
+***Supreme***  
+*Python*  
+  
+***Master***  
+*C*  
+*C++*  
+*Java*  
+*HTML*  
+*CSS*  
+*JavaScript*  
+*TypeScript*  
+*React*  
+*PostgreSQL*  
+*SQLite*  
+  
+***Fluent***  
+*MongoDB*  
+*Flask*
+## Projects
+[Rexor](https://github.com/hahaaahhdev/rexor) - *Pentesting, OSINT, and network toolkit.*  
+[Secular](https://github.com/hahaahhdev/secular) - *Automatically scan entire repos for any license violations with AI (AI is optional)*
+## Contact
+Don't contact me unless you want a custom made tool, website, app, or anything else.  
+**I only take crypto** ->
+[discord](https://discord.com/users/1538663018718691409)
