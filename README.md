@@ -2,10 +2,9 @@
 
 # hahaahhdev
 
-**Cyber Security Engineer**
+**Computer Science Engineer**
 
-I build security tooling: pentesting and OSINT utilities, license compliance scanners, and ransomware detection.
-Small, focused, offline-first tools that do one job properly.
+I build full-stack websites, projects, side-projects, programs, and much more. (Including cybersecurity)
 
 </div>
 
@@ -16,6 +15,7 @@ Small, focused, offline-first tools that do one job properly.
 **Supreme**: Python
 
 **Master**: C · C++ · Java · JavaScript · TypeScript · React · HTML · CSS · PostgreSQL · SQLite
+Rust
 
 **Fluent**: MongoDB · Flask
 
